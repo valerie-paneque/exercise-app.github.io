@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/exercise-app/static/css/main.e7d45723.css",
-    "main.js": "/exercise-app/static/js/main.7ecdf1c6.js",
-    "static/js/787.9a12cc1a.chunk.js": "/exercise-app/static/js/787.9a12cc1a.chunk.js",
-    "index.html": "/exercise-app/index.html",
-    "main.e7d45723.css.map": "/exercise-app/static/css/main.e7d45723.css.map",
-    "main.7ecdf1c6.js.map": "/exercise-app/static/js/main.7ecdf1c6.js.map",
-    "787.9a12cc1a.chunk.js.map": "/exercise-app/static/js/787.9a12cc1a.chunk.js.map"
+    "main.css": "/static/css/main.e7d45723.css",
+    "main.js": "/static/js/main.09184f43.js",
+    "static/js/787.9a12cc1a.chunk.js": "/static/js/787.9a12cc1a.chunk.js",
+    "index.html": "/index.html",
+    "main.e7d45723.css.map": "/static/css/main.e7d45723.css.map",
+    "main.09184f43.js.map": "/static/js/main.09184f43.js.map",
+    "787.9a12cc1a.chunk.js.map": "/static/js/787.9a12cc1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d45723.css",
-    "static/js/main.7ecdf1c6.js"
+    "static/js/main.09184f43.js"
   ]
 }
